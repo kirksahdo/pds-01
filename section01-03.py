@@ -1,8 +1,9 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+
 def plot_linearidade():
-    
+
     # Sinal x[n]
     x = np.array([0, 0.707, 1, 0.707, 0, -0.707, -1, -0.707])
     # Constante
